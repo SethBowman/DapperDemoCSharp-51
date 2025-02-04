@@ -48,3 +48,4 @@ C:\Users\sethb\OneDrive\Desktop\repos\DapperDemoCSharp-51\DapperDemoCSharp-51\ob
 C:\Users\sethb\OneDrive\Desktop\repos\DapperDemoCSharp-51\DapperDemoCSharp-51\obj\Debug\net8.0\DapperDemoCSharp-51.pdb
 C:\Users\sethb\OneDrive\Desktop\repos\DapperDemoCSharp-51\DapperDemoCSharp-51\obj\Debug\net8.0\DapperDemoCSharp-51.genruntimeconfig.cache
 C:\Users\sethb\OneDrive\Desktop\repos\DapperDemoCSharp-51\DapperDemoCSharp-51\obj\Debug\net8.0\ref\DapperDemoCSharp-51.dll
+C:\Users\sethb\OneDrive\Desktop\repos\DapperDemoCSharp-51\DapperDemoCSharp-51\obj\Debug\net8.0\DapperDemoCSharp-51.sourcelink.json

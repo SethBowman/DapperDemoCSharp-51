@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DapperDemoCSharp-51")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf3f2e2fe3ce6e2c0770231b28d5674d407633a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("DapperDemoCSharp-51")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DapperDemoCSharp-51")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
